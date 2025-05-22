@@ -1,0 +1,3 @@
+Ya tengo todas mis comodidades en mi casa, como la silla , el escritorio, mis pantallas para trabajar etc, y he notado que me ha ayudado. He permanecido sentado y concentrado bastante tiempo, lo cual ha impactado directamente en mi productividad. 
+Al mismo tiempo ya cocino, al fin! Y tambien ya estoy agarrando mejores habitos. Me falta hacer ejercicio, ir al tenis, meditar y leer, pero eso lo ire haciendo con el tiempo; empiezo de poco a poco.
+Estoy seguro que ahora voy para arriba. llevo una tendencia sin lugar a dudas, alcista.

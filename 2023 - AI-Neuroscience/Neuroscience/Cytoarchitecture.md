@@ -1,0 +1,1 @@
+Cytoarchitecture (Cell architecture) is the study of the [cellular](obsidian://open?vault=Neuroscience&file=Biology%2Fcell) composition of the [[Central Nervous System]]'s tissue under the microscope. 

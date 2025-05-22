@@ -1,0 +1,5 @@
+Ayer sali con Maria y estuvo interesante, definitivamente es una persona que se cuestiona cosas, . Para ser honesto no me super encanto, es decir, no fue amor a primera vista ni nada de eso, pero creo que seguire saliendo con ella
+Tambien voy avanzando mucho en ThePleis. Ya tengo la interfaz, la API y 1 crawler (vivanuncios) funcionando. He aprendo bastante de APIs, frontend frameworks y crawlers con este proyecto.
+Le pondre muchas ganas al proyecto para que salga bien pero no espero gran cosa, lo que yo en verdad estoy buscando es aprender todo lo que efectivamente estoy aprendiendo.
+Los datos hoy en dia son todos, y el trabajar con ML el ultimo año me enseño que los datos son lo valioso, y obviamente el modelo, pero mientras tengas datos de calidad puedes facilmente trabajarlos para darle un sentido.
+![[Pasted image 20230201122521.png]]

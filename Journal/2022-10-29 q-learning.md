@@ -1,0 +1,1 @@
+Voy bien pero tengo que ir mejorando gradualmente. Ya entiendo Qlearning en una semana y seguiré con temas más avanzados. Necesito usar menos el cel, dejarme de drogar y no salir tanto

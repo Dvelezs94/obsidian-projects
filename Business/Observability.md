@@ -1,6 +1,6 @@
 is the ability to understand a complex system's internal state based on external outputs. When a system is observable, a user can identify the root cause of a performance problem by looking at the data it produces without additional testing or coding.
 
-the term comes from [[Control theory]], an ingineering concept that refers to the ability to assess internal problems from the outside. For example, car diagnostic systems offer observability for mechanics, giving them the ability to understand why your car won't start without having to take it apart.
+the term comes from [[Control Theory]], an ingineering concept that refers to the ability to assess internal problems from the outside. For example, car diagnostic systems offer observability for mechanics, giving them the ability to understand why your car won't start without having to take it apart.
 
 in IT, an observability solution analyzes output data, provides an assessment of the system's health and offers actionable insights for addressing the problem. An observable system is one where DevOps teams can see an entire IT environment with context and understanding of interdependencies. The result? it allows teams to detect proactively and resolve issues faster.
 

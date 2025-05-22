@@ -1,0 +1,1 @@
+El frio hace que me levante tarde, y sin ganas. Sin duda alguna el ambiente, en este caso el clima, hace que mi estado de animo, y por consiguiente mis decisiones sean unas o otras. Si quiero rendir al maximo, necesito estar en el ambiente adecuado.

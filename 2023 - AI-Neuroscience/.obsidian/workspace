@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "2d07b2c43a76c67e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7849c7c690d64c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Neuroscience/The nervous system.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "024ed3a4fadffdc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e24e958bfdd286b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eaaafbdb862cf41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88407b4aadd742d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#people",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f3df2050faf7655",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6941184a02e8438",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "b8b9b1a45ac2394b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d89be017359dc7f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7117ca67738bebe7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neuroscience/The nervous system.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbb1cbfdfd6d2991",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Neuroscience/The nervous system.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be606e65af747b19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "238c6c39b861953d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Neuroscience/The nervous system.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a7849c7c690d64c6",
+  "lastOpenFiles": [
+    "Biology/Cell.md",
+    "Neuroscience/The nervous system.md",
+    "Neuroscience/Neurons.md",
+    "Neuroscience/Brain.md",
+    "Electronics/The Electron.md",
+    "Electronics/attachments/Pasted image 20221013122043.png",
+    "Electronics/attachments/Pasted image 20221011133717.png",
+    "Electronics/attachments/Pasted image 20221012102354.png",
+    "Electronics/Schematics.md",
+    "Electronics/Electronics.md"
+  ]
+}

@@ -1,0 +1,1 @@
+According to the [[Gnosticism]], Gnosis is the type of spiritual [[knowledge]] that guides to the [[Illumination]]

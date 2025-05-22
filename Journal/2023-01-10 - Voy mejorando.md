@@ -1,0 +1,1 @@
+He mejorado mi discplina, y con ello mis habitos. Cada vez veo mejor rendimiento en mi y tambien cada vez me siento mejor.

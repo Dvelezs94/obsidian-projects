@@ -1,0 +1,3 @@
+el dualismo cuerpo mente es una dicotomía falsa. La verdadera división existe entre el cuerpo físico, que aloja a la mente, y el cuerpo etéreo o doble, que aloja nuestra energía. **El vuelo abstracto tiene lugar cuando aplicamos el doble a nuestras vidas diarias**. Dicho de otra manera, el momento en que nuestro cuerpo físico cobra una con ciencia total de su contraparte energética, hemos cruzado a lo abstracto, un reino de la conciencia completamente distinto.
+
+Taisha Abelar. Donde Cruzan Los Brujos (Kindle Locations 1183-1186). Kindle Edition. 

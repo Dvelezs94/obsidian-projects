@@ -1,0 +1,2 @@
+Creo que el principal problema por el cual no entendemos la consciencia es que ni siquiere entendemos como funciona el cerebro, no entendemos como realiza las cosas que hace, como esta dividido, como se conecta, como delega tareas a unas areas y a otras no, como manipula toda la informacion que entra, como guarda recuerdos, como sabe decidir entre que modulos acceder y cuales no, y muchisimas cosas mas. Necesitamos una Mecanica de las neuronas. Neuromechanics / Cognitive Mechanics?
+

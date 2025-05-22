@@ -1,0 +1,1 @@
+Ya vivo solo aquí en virreyes en saltillo. Voy a ver qué tal me va pero mi objetivo es el mismo, estudiar y entender la mente

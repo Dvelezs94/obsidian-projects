@@ -1,0 +1,7 @@
+La parte de victor fue en realidad ayer, solo que hasta hoy estoy escribiendo
+
+ideas para platica con victor acerca del bien el 25 de junio del 2023: hablamos como por 3 horas en el bosque de Chapultepec acerca de definir lo que es el bien. Por lo que resulto una tarea dificil. Es aqui cuando decidimos definr las propiedades del bien. Hablamos solo de 1 propiedad, el conocimiento. Que simplemente quiere decir que una caracteristica o "axioma" del bien, es el conocimiento (no por nada muchos filosofos te invitan a que te conozcas). 
+Acerca de esta misma idea del conocimiento dijimos y pusimos ejemplos de muchas cosas, en concreto, Victor puso un ejemplo de un plomero, en su labor de arreglar tuberias y que el plomero puede estar seguro que conoce algo, en este caso las tuberias, aplicando sus mismos conocimientos en la tarea practical de arreglar la tuberia. Simplemente porque si no supiera, no podria arreglar esa misma tuberia. Podrias hacerlo unas pocas veces por suerte, pero no seria algo sostenible.
+Hay muchas otras cosas mas que no recuerdo ahora mismo (creo que deberiamos tomar notas o al menos hacer un ejercicio de anotarlas justo despues de terminar la sesion), pero la platica estuvo centrada en el conocimiento.
+
+Aunando a esto del conocimiento, quisiera que retomaramos la platica con un concepto llamado "Gnoseologia", que es una teoria de la naturaleza del conocimiento. Al mismo tiempo creo que nos estamos desviando del tema principal, que es el bien. No se.

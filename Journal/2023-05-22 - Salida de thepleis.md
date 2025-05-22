@@ -1,0 +1,1 @@
+Ya renuncie a thepleis y estare estudiando la conciencia. En definitiva el tema de real estate no me gusto y no me apasiona.

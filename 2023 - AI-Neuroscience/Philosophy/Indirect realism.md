@@ -1,0 +1,1 @@
+In [[Philosophy of perception]] and [[Philosophy of mind]], indirect realism or representational realism 

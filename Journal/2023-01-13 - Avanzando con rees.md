@@ -1,0 +1,1 @@
+Estoy avanzando con rees. Estoy aprendido mucho de APIs y crawlers. Manu es bueno investigando y moviendose. Estoy seguro que vamos en buena direccion para hacer un buen producto y negocio

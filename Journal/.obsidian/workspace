@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "f02a31221b5f7916",
+    "type": "split",
+    "children": [
+      {
+        "id": "1153cac94858bf79",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-10-10 - Tirando hueva dlv.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04de75827e8b265b",
+    "type": "split",
+    "children": [
+      {
+        "id": "897f4cad0f50c6ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50dd50c2714edaab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b060652806e650c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "564b4cb2ec4744e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd7a68407394bfb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2c36be2fe2dc810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b39a3b05d4a6c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-10 - Tirando hueva dlv.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d347194b2fb0f5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-10-10 - Tirando hueva dlv.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3216f5753043c2c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "391f2c5df0c73b87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10-10 - Tirando hueva dlv.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1153cac94858bf79",
+  "lastOpenFiles": [
+    "2022-10-03 - Filosofia de vida.md",
+    "2022-09-30 - Psychology rocks.md",
+    "2022-09-29 - hice mi horario de materias.md",
+    "2022-09-23 - en que me ha ayudao la filosofia.md",
+    "2022-09-27 - Relaciono celulas con todo el universo en un mismo fin.md",
+    "attachments/Pasted image 20220929141858.png",
+    "attachments/Pasted image 20220929123546.png"
+  ]
+}

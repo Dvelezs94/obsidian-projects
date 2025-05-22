@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "f02a31221b5f7916",
+    "type": "split",
+    "children": [
+      {
+        "id": "1053a73b745f2cb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1153cac94858bf79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-02-20 - te mantiene es en el mundo con dos cosas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72048392b22a7f25",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "55fa2e3c78564f47",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cb72e479d0699c54",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0e346bd71e4384a8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a5115bf1f926b21d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "769d33de48c38886",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6e5dce66483527a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2023-02-20 - te mantiene es en el mundo con dos cosas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "73d69d23dac2b7ca",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2023-02-20 - te mantiene es en el mundo con dos cosas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "43c7517e6ee5c11d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2023-02-20 - te mantiene es en el mundo con dos cosas.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1153cac94858bf79",
+  "lastOpenFiles": [
+    "2023-02-12.md",
+    "2023-02-20 - te mantiene es en el mundo con dos cosas.md",
+    "2023-02-01.md",
+    "2023-01-01 - Feliz 2023.md",
+    "2022-12-24 - Propositos de año nuevo 2023.md",
+    "2022-12-23 - Amor no correspondido.md",
+    "2022-11-19 - hare cosas grandes.md",
+    "2022-11-10 - enfermo del estomago.md",
+    "2022-10-18 - random.md",
+    "2022-10-24 - hoy me independice.md"
+  ]
+}

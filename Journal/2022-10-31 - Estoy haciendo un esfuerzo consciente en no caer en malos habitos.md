@@ -1,0 +1,1 @@
+Estoy haciendo un esfuerzo consciente en no caer en malos habitos. Tiendo, como todos los demas a querer huir de las cosas que requieren trabajo, pero que se que son necesarias para mi desarrollo y mi futuro. No se cuanto tiempo me va a tomar dominarme a mi mismo y a mis impulsos, pero sin duda lo lograre.

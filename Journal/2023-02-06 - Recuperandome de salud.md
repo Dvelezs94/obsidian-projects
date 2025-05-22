@@ -1,0 +1,1 @@
+Casi toda la semana pasada estuve enfermo de infeccion en la garganta. Para ser honesto si vi que me afecto en mi dia a dia, ya que fue mas pesado y en general no me daban ganas de hacer nada. Hoy ya estoy mucho mejor, tal vez a un 90%, pero definitivamente me tengo que poner al dia con todas mis actividades, sobre todo el tenis que ya casi empiezan los primeros torneos del anio.

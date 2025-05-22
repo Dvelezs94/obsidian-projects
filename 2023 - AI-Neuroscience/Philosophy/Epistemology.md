@@ -1,0 +1,1 @@
+Epistemology studies the nature, origin and scope of [[knowledge]]

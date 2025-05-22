@@ -1,0 +1,13 @@
+Esto es como me defino a mi mismo hoy en dia
+- Soy una persona con valores morales y eticos que respeta y valora la vida propia y la de las demas personas
+- Soy un buen hijo que atiende a sus padres cuando lo necesitan
+- Soy un buen hermano que trata de ayudar y hacer crecer a sus herrmanos como personas
+- Soy un tenista y atleta siempre en busca de mejorar mi rendimiento tanto en la cancha como en condicion y estado fisico
+- Soy un buen empresario el cual ataca problemas de la vida real y aporta valor a la comunidad en base a ello.
+- Soy una buena pareja. Siempre trato de entender, apoyar y ayudar a mi pareja.
+- Soy un buen amigo en el que pueden contar
+- Soy un simple mortal que esta conciente que la vida es finita y que tengo que disfrutarla y aprovecharla
+- Soy un filosofo. Me fascina cuestionarme cosas de la vida, de como funciona y su significado.
+- Soy un investigador de la mente en busca de la respuesta a que es la conciencia
+- Soy una persona con fuerza de voluntad y control sobre mis propios deseos
+- Soy un estudioso sobre mi mismo. Me estudio a mi mismo todos los dias, mido mi progreso y mis retrocesos, asi como desarrollo nuevos sistemas para mejorarme constantemente en todos los aspectos de mi vida.

@@ -1,0 +1,1 @@
+ya empiezo a regularizarme en los difertentes aspectos de mi vida. Sigo anotando todo en mi life tracker y veo que ya como mejor. Todavia tengo que mejorar en estudio, lectura, meditaciony tiempo en el celular, pero se que es gradual.

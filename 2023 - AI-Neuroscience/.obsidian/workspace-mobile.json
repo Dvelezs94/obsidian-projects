@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "2d07b2c43a76c67e",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f2b5d940073326",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4567dfe0f9d0d6fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90940f45f99f9803",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d82de44e91e10e7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "42554237d6561a56",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f39ab002605bc799",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "499d8a47c5456b72",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "e25e091b882e8d9c",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e46483a2585f5003",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e7c75ff70a0f7f79",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "932e52da929c886b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a7e16b525a9c3553",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4567dfe0f9d0d6fb",
+  "lastOpenFiles": [
+    "Philosophy/Philosophy of mind.md",
+    "Philosophy/The mind-body problem.md",
+    "Psychology/Psychology.md",
+    "Psychology/Structuralism.md",
+    "Random Ideas.md",
+    "Diego Velez.md",
+    "Biology/Cell.md",
+    "Neuroscience/The nervous system.md",
+    "Neuroscience/Neurons.md",
+    "Neuroscience/Brain.md"
+  ]
+}
