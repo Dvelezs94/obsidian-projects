@@ -11,14 +11,10 @@
             "id": "04837a6b6ce7aa63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciencias cognitivas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ciencias cognitivas"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "04837a6b6ce7aa63",
+  "active": "dca2446593795814",
   "lastOpenFiles": [
+    "Ciencias cognitivas",
     "Ciencias cognitivas.md"
   ]
 }
