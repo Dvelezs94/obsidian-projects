@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias cognitivas/Memoria.md",
+                "file": "Ciencias cognitivas/Personalidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoria"
+              "title": "Personalidad"
             }
           }
         ],
@@ -181,9 +181,11 @@
   },
   "active": "b4945572f7d0d848",
   "lastOpenFiles": [
+    "Ciencias cognitivas/Realidad.md",
+    "Ciencias cognitivas/Consciencia.md",
+    "Ciencias cognitivas/Memoria.md",
     "Ciencias cognitivas/Personalidad.md",
     "Ciencias cognitivas/Untitled 1.md",
-    "Ciencias cognitivas/Memoria.md",
     "README.md",
     "Journal/2025-05-23.md",
     "Ciencias cognitivas/Biologia",
@@ -191,7 +193,6 @@
     "Ciencias cognitivas/Eletronica",
     "2023 - AI-Neuroscience/Neuroscience/Rodolfo Llinas.md",
     "Rodolfo Llinás.md",
-    "Ciencias cognitivas/Consciencia.md",
     "Toltequidad/Vuelo abstracto.md",
     "Toltequidad/Atenciones.md",
     "Toltequidad/Conciencia Nahual.md",
@@ -209,7 +210,6 @@
     "2023 - AI-Neuroscience/Psychology/Whilhelm Wundt.md",
     "2023 - AI-Neuroscience/Psychology/Psychology.md",
     "2023 - AI-Neuroscience/Psychology/Pragmatism.md",
-    "2023 - AI-Neuroscience/Psychology/Functionalism.md",
     "Journal/attachments/Pasted image 20230605213855.png",
     "Journal/attachments/Pasted image 20230531230857.png",
     "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20221122105348.png",
