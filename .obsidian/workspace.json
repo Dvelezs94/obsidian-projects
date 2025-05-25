@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias cognitivas/Consciencia.md",
+                "file": "Ciencias cognitivas/Personalidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consciencia"
+              "title": "Personalidad"
             }
           }
         ],
@@ -181,8 +181,18 @@
   },
   "active": "b4945572f7d0d848",
   "lastOpenFiles": [
-    "Toltequidad/Vuelo abstracto.md",
+    "Ciencias cognitivas/Untitled 1.md",
+    "Ciencias cognitivas/Personalidad.md",
+    "Ciencias cognitivas/Memoria.md",
+    "README.md",
+    "Journal/2025-05-23.md",
+    "Ciencias cognitivas/Biologia",
+    "Ciencias cognitivas/Filosofia",
+    "Ciencias cognitivas/Eletronica",
+    "2023 - AI-Neuroscience/Neuroscience/Rodolfo Llinas.md",
+    "Rodolfo Llinás.md",
     "Ciencias cognitivas/Consciencia.md",
+    "Toltequidad/Vuelo abstracto.md",
     "Toltequidad/Atenciones.md",
     "Toltequidad/Conciencia Nahual.md",
     "2023 - AI-Neuroscience/Narrow Artificial Ingelligence.md",
@@ -200,13 +210,6 @@
     "2023 - AI-Neuroscience/Psychology/Psychology.md",
     "2023 - AI-Neuroscience/Psychology/Pragmatism.md",
     "2023 - AI-Neuroscience/Psychology/Functionalism.md",
-    "2023 - AI-Neuroscience/Psychology/Edward Bradford Titchener.md",
-    "2023 - AI-Neuroscience/Psychology/Cognitive Psychology.md",
-    "2023 - AI-Neuroscience/Psychology/Carl Jung.md",
-    "2023 - AI-Neuroscience/Psychology/Behaviorism.md",
-    "2023 - AI-Neuroscience/Psychology/Structuralism.md",
-    "2023 - AI-Neuroscience/Razonamiento Inductivo y Deductivo.md",
-    "2023 - AI-Neuroscience/Social sciences.md",
     "Journal/attachments/Pasted image 20230605213855.png",
     "Journal/attachments/Pasted image 20230531230857.png",
     "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20221122105348.png",
@@ -224,9 +227,6 @@
     "Toltequidad/attachments",
     "2023 - AI-Neuroscience/Electronics/attachments",
     "2023 - AI-Neuroscience/Computer Science/attachments",
-    "2023 - AI-Neuroscience/Math/Statistics",
-    "2023 - AI-Neuroscience/Math/Linear Algebra",
-    "2023 - AI-Neuroscience/Math/Geometry",
     "2023 - AI-Neuroscience/Untitled.canvas"
   ]
 }
