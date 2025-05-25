@@ -1,6 +1,6 @@
-
 Por que somos como somos?
 La personalidad es el YO?
+Cuando hablamos de una persona, hablamos de una personalidad, o de un [[SER]]?
 Por que somos distintos los unos a los otros?
 Que tan distintos somos?
 Pueden existir dos seres iguales?

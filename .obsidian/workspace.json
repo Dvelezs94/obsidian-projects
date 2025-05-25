@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8597e7363e1b2a6e",
+        "id": "d658004c4545c0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "04837a6b6ce7aa63",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Journal/attachments/Pasted image 20230531230857.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20230531230857"
-            }
-          },
-          {
-            "id": "b4945572f7d0d848",
+            "id": "ec94c520d8cd01ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias cognitivas/Lenguaje.md",
+                "file": "Ciencias cognitivas/SER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lenguaje"
+              "title": "SER"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,16 +166,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b4945572f7d0d848",
+  "active": "ec94c520d8cd01ef",
   "lastOpenFiles": [
-    "Ciencias cognitivas/Mente.md",
+    "Ciencias cognitivas/Personalidad.md",
+    "Ciencias cognitivas/SER.md",
+    "Journal/attachments/Pasted image 20230531230857.png",
     "Ciencias cognitivas/Lenguaje.md",
+    "Ciencias cognitivas/Mente.md",
     "Ciencias cognitivas/Filosofia/Dualismo.md",
     "Ciencias cognitivas/Fisica/Materia.md",
     "Ciencias cognitivas/Fisica",
     "Ciencias cognitivas/Personajes/Paul Bloom.md",
     "Ciencias cognitivas/Personajes/Francis Crick.md",
-    "Ciencias cognitivas/Personalidad.md",
     "Ciencias cognitivas/Personajes",
     "Ciencias cognitivas/Creencias.md",
     "Ciencias cognitivas/Realidad.md",
@@ -210,10 +199,7 @@
     "OLD-Artificial Intelligence/Data Science/algorithms/User Based Collaborative Filtering.md",
     "2023 - AI-Neuroscience/Computer Science/Recommendation Systems.md",
     "2023 - AI-Neuroscience/Computer Science/Prompt Engineering.md",
-    "OLD-Artificial Intelligence/Data Science/Artificial Intelligence.md",
-    "OLD-Artificial Intelligence/Data Science/algorithms/Item Based Collaborative Filtering.md",
     "Journal/attachments/Pasted image 20230605213855.png",
-    "Journal/attachments/Pasted image 20230531230857.png",
     "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20221122105348.png",
     "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20220930162223.png",
     "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20220930154209.png",
