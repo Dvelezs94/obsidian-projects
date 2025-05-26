@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencias cognitivas/Mente.md",
+                "file": "Ciencias cognitivas/Biologia/Neuronas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mente"
+              "title": "Neuronas"
             }
           }
         ]
@@ -168,6 +168,9 @@
   },
   "active": "ec94c520d8cd01ef",
   "lastOpenFiles": [
+    "Ciencias cognitivas/Biologia/Untitled.md",
+    "Ciencias cognitivas/Biologia/Neuronas.md",
+    "Ciencias cognitivas/Mente.md",
     "Ciencias cognitivas/Memoria.md",
     "Ciencias cognitivas/Fenomenologia.md",
     "Ciencias cognitivas/Filosofia/Dualismo.md",
@@ -175,7 +178,6 @@
     "Ciencias cognitivas/Personalidad.md",
     "Journal/attachments/Pasted image 20230531230857.png",
     "Ciencias cognitivas/Lenguaje.md",
-    "Ciencias cognitivas/Mente.md",
     "Ciencias cognitivas/Fisica/Materia.md",
     "Ciencias cognitivas/Fisica",
     "Ciencias cognitivas/Personajes/Paul Bloom.md",
@@ -198,8 +200,6 @@
     "OLD-Artificial Intelligence/Data Science/Data Analytics Tools.md",
     "OLD-Artificial Intelligence/Data Science/Machine Learning.md",
     "OLD-Artificial Intelligence/Data Science/algorithms/User Based Collaborative Filtering.md",
-    "2023 - AI-Neuroscience/Computer Science/Recommendation Systems.md",
-    "2023 - AI-Neuroscience/Computer Science/Prompt Engineering.md",
     "Journal/attachments/Pasted image 20230605213855.png",
     "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20221122105348.png",
     "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20220930162223.png",
