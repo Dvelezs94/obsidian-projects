@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "c24ce5f47616684e",
+    "id": "66abf083fc995c27",
     "type": "split",
     "children": [
       {
-        "id": "fcad4f44e2c8c5b5",
+        "id": "66a9949a777699c6",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0fd7588a7660db",
+            "id": "be2385902106cf2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 - AI-Neuroscience/Random Ideas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Random Ideas"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "77c1b461bad1d53d",
+    "id": "cc8b6bb2b279cb68",
     "type": "split",
     "children": [
       {
-        "id": "928018a2b8d16bfd",
+        "id": "6944326444997329",
         "type": "tabs",
         "children": [
           {
-            "id": "dca2446593795814",
+            "id": "ec8cfd37fea60109",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "b6e84092283a4878",
+            "id": "4c9b6a925bc84105",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "15c0682d12955444",
+            "id": "a4ead682b7cdc327",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "320f0db3f4d295bd",
+    "id": "4858a724dd6bf6b9",
     "type": "split",
     "children": [
       {
-        "id": "7e98ab769fc71bf1",
+        "id": "54754e270e9cda55",
         "type": "tabs",
         "children": [
           {
-            "id": "c699f28026770991",
+            "id": "c539f77cec7ff1a5",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "b9f805f64a372a7f",
+            "id": "8cf05ca5767a656d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "e66f8a4856ffbaaa",
+            "id": "44f77e6d1227322a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "127b7eb64050247c",
+            "id": "5ff2eef0f3435b2b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -162,58 +158,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9d0fd7588a7660db",
-  "lastOpenFiles": [
-    "Journal/2025-06-03 - levantate con ganas de vivir.md",
-    "Journal/2025-05-23.md",
-    "Journal/2023-09-25.md",
-    "Journal/2023-10-03 - la expansion de la conciencia.md",
-    "Journal/2023-11-01.md",
-    "Journal/2023-12-12 - En saltillo, sigo con solardevs y trabajar menos pero mas eficiente.md",
-    "Ciencias cognitivas/SER.md",
-    "Ciencias cognitivas/Fisica/Electricidad.md",
-    "Ciencias cognitivas/Realidad.md",
-    "Ciencias cognitivas/Personalidad.md",
-    "Ciencias cognitivas/Mente.md",
-    "Ciencias cognitivas/Memoria.md",
-    "Ciencias cognitivas/Lenguaje.md",
-    "Ciencias cognitivas/Fenomenologia.md",
-    "Ciencias cognitivas/Creencias.md",
-    "Ciencias cognitivas/Consciencia.md",
-    "Ciencias cognitivas/Personajes/Paul Bloom.md",
-    "Ciencias cognitivas/Personajes/Francis Crick.md",
-    "Ciencias cognitivas/Fisica/Materia.md",
-    "Ciencias cognitivas/Filosofia/Dualismo.md",
-    "Ciencias cognitivas/Biologia/Untitled.md",
-    "Ciencias cognitivas/Biologia/Neuronas.md",
-    "Journal/attachments/Pasted image 20230531230857.png",
-    "Ciencias cognitivas/Fisica",
-    "Ciencias cognitivas/Personajes",
-    "README.md",
-    "Ciencias cognitivas/Biologia",
-    "Ciencias cognitivas/Filosofia",
-    "Ciencias cognitivas/Eletronica",
-    "2023 - AI-Neuroscience/Neuroscience/Rodolfo Llinas.md",
-    "Rodolfo Llinás.md",
-    "Toltequidad/Vuelo abstracto.md",
-    "Journal/attachments/Pasted image 20230605213855.png",
-    "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20221122105348.png",
-    "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20220930162223.png",
-    "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20220930154209.png",
-    "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20220929165522.png",
-    "2023 - AI-Neuroscience/Psychology/attachments/Pasted image 20220929164649.png",
-    "2023 - AI-Neuroscience/Physics/attachments/Pasted image 20220928140057.png",
-    "2023 - AI-Neuroscience/Philosophy/attachments/Pasted image 20221205110238.png",
-    "2023 - AI-Neuroscience/Philosophy/attachments/Pasted image 20221115143852.png",
-    "2023 - AI-Neuroscience/Psychology/attachments",
-    "2023 - AI-Neuroscience/Physics/attachments",
-    "2023 - AI-Neuroscience/Philosophy/attachments",
-    "2023 - AI-Neuroscience/Neuroscience/attachments",
-    "Toltequidad/attachments",
-    "2023 - AI-Neuroscience/Untitled.canvas"
-  ]
+  "active": "be2385902106cf2d",
+  "lastOpenFiles": []
 }
